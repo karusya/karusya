@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi 👋, I'm Karina</h1>
 <h4 align="center">A passionate QA Automation/QA from Ukraine</h3>
 - 💬 Ask me about **testing and test automation process**
 - 📫 Reach me **karina.zhds@gmail.com**
