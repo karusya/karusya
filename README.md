@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h4 align="center">A passionate QA Automation Lead/QA Manager from Ukraine</h3>
+<h4 align="center">A passionate QA Automation/QA from Ukraine</h3>
 - 💬 Ask me about **testing and test automation process**
 - 📫 Reach me **karina.zhds@gmail.com**
-
+<h4 align="center">
 <!--
 **karusya/karusya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
