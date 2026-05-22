@@ -16,23 +16,31 @@ languages: ['English (C2)', 'Portuguese (Intermediate)', 'Ukrainian (Native)', '
 
 ## Tech Stack
 
-**Test Automation & Frameworks**
-Playwright · Cypress · Selenium WebDriver · WDIO · Cucumber (BDD) · Protractor · Mocha · Jest · Jasmine · JMeter · k6
+**Languages**
 
-**API & Backend Testing**
-REST APIs · GraphQL · Postman · Newman · REST Assured · MuleSoft · OData · Axios
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,py,bash,html,css)
+
+**Frontend & Backend**
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,redux,vite,nextjs)
+
+**Testing & QA**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **CI/CD & DevOps**
-Jenkins · GitHub Actions · GitLab CI · GoCD · Docker · Bash · AWS (S3, SNS, SQS, EC2, Lambda)
 
-**Programming & Scripting**
-TypeScript · JavaScript · Node.js · Python · SQL · HTML5 · CSS3
+![Tech Stack](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,aws,linux)
 
-**Quality Engineering**
-Functional · Performance · Regression · Security Testing · E2E · Cross-browser · Parallel Execution · Framework Architecture · Root Cause Analysis
+**Databases & Tools**
 
-**Test Management**
-Jira · Confluence · TestRail · Xray · Zephyr · Testmo
+![Tech Stack](https://skillicons.dev/icons?i=postgres,mysql,git,github,jira,confluence)
 
 ---
 
