@@ -1,6 +1,6 @@
 # Karina Zhdanova
 
-**Quality Automation Engineer | Playwright • Cypress • TypeScript • Node.js • Python**
+**Quality Automation Engineer | Playwright • Cypress • TypeScript • Node.js • Python • Open to relocate EU UK**
 
 Quality automation engineer with 10+ years building Playwright-based test frameworks and validation strategies for complex web and SaaS platforms. Established QA functions from scratch — wrote the test strategies, defined quality gates, built the automation, and shipped the infrastructure. Migrated a legacy Selenium suite to Playwright with 400+ specs, cut regression cycles in half, and wired the whole thing into CI/CD pipelines that actually give teams useful signal. The kind of engineer who thinks in systems: shift-left by default, root cause always, metrics that mean something. Currently expanding into Python, machine learning, and backend engineering.
 
